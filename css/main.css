@@ -1,0 +1,13 @@
+.carousel img {
+    max-height: 400px;
+    width: auto;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    bottom: 4.25rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
